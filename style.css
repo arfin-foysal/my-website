@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+.fastHero{
+    flex-basis: 45%;
+    
+   }
+   .secHero{
+    flex-basis: 45%;
+   }
+
+.img{
+    width: 100%;
+}
